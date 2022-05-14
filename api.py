@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 city_coords = {
     "mexico": {'lat': 19.42847, 'lon': -99.12766},
-    "monterrey": {'lat': 25.7714, 'lon': -100.309},
+    "regiolandia": {'lat': 25.7714, 'lon': -100.309},
     "guadalajara": {'lat': 20.6736, 'lon': -103.344}
 }
 
